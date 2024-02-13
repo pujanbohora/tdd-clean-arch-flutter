@@ -26,25 +26,3 @@ Welcome to the Flutter-TDD-Clean-Architecture-E-Commerce-App GitHub repository! 
         </tr>
     </table>
 </div>
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App.svg?style=for-the-badge
-[contributors-url]: https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App.svg?style=for-the-badge
-[forks-url]: https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App/network/members
-[stars-shield]: https://img.shields.io/github/stars/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App.svg?style=for-the-badge
-[stars-url]: https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App.svg?style=for-the-badge
-[issues-url]: https://github.com/Sameera-Perera/Flutter-TDD-Clean-Architecture-E-Commerce-App/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: http://www.linkedin.com/in/sameera-perera-1148081b8
-[product-screenshot]: readme_assets/splash.jpg# tdd-clean-arch-flutter
